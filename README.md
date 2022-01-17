@@ -78,6 +78,7 @@
      @objc var userId: Int32 = 0
 }
 
+
 //data:[[String:AnyObject]]
  let userList:[UserModel] = UserModel.GetList(data: data)
  
