@@ -33,7 +33,7 @@
  
  - getNewModel(dict: dict) 将字典转化为模型 
 ```
-  let dict:[String: Any] = []
+  //let dict:[String: Any] = []
   let model:[Notice] = CoreDataTool.getNewModel(dict: dict)
 ```
 
